@@ -44,6 +44,7 @@
          "requires" : {
             "Archive::Extract" : "0",
             "CPAN::Meta" : "0",
+            "File::pushd" : "0",
             "Parse::LocalDistribution" : "0"
          }
       },
